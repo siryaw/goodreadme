@@ -21,11 +21,13 @@ User GitHub email
 
 # project
 
+![screen](readmescreen.png)
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sirYaw/project)
 
 ## Description
 
-description
+Insert project description
 
 
 ## Table of Contents 
@@ -56,7 +58,7 @@ undefined
 
 ## Usage
 
-..
+Enter usage information
 
 ## License
 This project is licensed under the MIT license.
